@@ -1,18 +1,18 @@
-﻿strain,isolation site,stock,GenBank ID,genome link,bei link
-F. nucleatum CTI-03,CRC gut,out,AXNX00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNX00000000,https://www.beiresources.org/Catalog/Bacteria/HM-994.aspx
-F. nucleatum CTI-05,CRC gut,out,AXNW00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNW00000000,https://www.beiresources.org/Catalog/Bacteria/HM-995.aspx
-F. nucleatum CTI-06,CRC gut,in,AXNV00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNV00000000,https://www.beiresources.org/Catalog/bacteria/HM-996.aspx
-F. nucleatum CTI-07,CRC gut,in,AXNU00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNU00000000,https://www.beiresources.org/Catalog/bacteria/HM-997.aspx
-F. nucleatum CTI-01,CRC gut,in,AXNZ00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNZ00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-992.aspx
-F. nucleatum CTI-02,CRC gut,in,AXNY00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNY00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-993.aspx
-F. nucleatum MJR7757B,vagina,in,LRPY00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/LRPY00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1289.aspx
-F. nucleatum subsp. polymorphum,oral,in,ADDB00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/ADDB00000000.1,https://www.beiresources.org/Catalog/Bacteria/HM-260.aspx
-F. nucleatum subsp. animalis D11,CD gut,in,ACDS00000000.2,https://www.ncbi.nlm.nih.gov/nucleotide/ACDS00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-75.aspx
-w,oral,in,AKCE00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AKCE00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-758.aspx
-R. gnavus CC55_001C,healthy gut,in,AZJF00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AZJF00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1056.aspx
-S. parasanguinis F0449,oral,out,AJMV00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AJMV00000000,https://www.beiresources.org/Catalog/Bacteria/HM-808.aspx
-S. parasanguinis CC87K,healthy gut,in,AZJD00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AZJD00000000,https://www.beiresources.org/Catalog/bacteria/HM-1060.aspx
-Lactobacillus gasseri JV-V03,vagina,in,ACGQ00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/223861644,https://www.beiresources.org/Catalog/bacteria/HM-104.aspx
-Lactobacillus gasseri MV-22,vagina,in,ABWH00000000.2,https://www.ncbi.nlm.nih.gov/nucleotide/ABWH00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-644.aspx
-Lactobacillus gasseri 224-1,vagina,in,ADFT00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/ADFT00000000?,https://www.beiresources.org/Catalog/bacteria/HM-647.aspx
-Lactobacillus gasseri PSS7772D,vagina,in,LRQD00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/LRQD00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1278.aspx
+﻿strain,isolation site,stock,GenBank Accession,GenBank ID,genome link,bei link
+F. nucleatum CTI-03,CRC gut,out,GCA_000479245.1,AXNX00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNX00000000,https://www.beiresources.org/Catalog/Bacteria/HM-994.aspx
+F. nucleatum CTI-05,CRC gut,out,GCA_000479225.1,AXNW00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNW00000000,https://www.beiresources.org/Catalog/Bacteria/HM-995.aspx
+F. nucleatum CTI-06,CRC gut,in,GCA_000479185.1,AXNV00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNV00000000,https://www.beiresources.org/Catalog/bacteria/HM-996.aspx
+F. nucleatum CTI-07,CRC gut,in,GCA_000479205.1,AXNU00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNU00000000,https://www.beiresources.org/Catalog/bacteria/HM-997.aspx
+F. nucleatum CTI-01,CRC gut,in,GCA_000479285.1,AXNZ00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNZ00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-992.aspx
+F. nucleatum CTI-02,CRC gut,in,GCA_000479265.1,AXNY00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AXNY00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-993.aspx
+F. nucleatum MJR7757B,vagina,in,GCA_001546435.1,LRPY00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/LRPY00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1289.aspx
+F. nucleatum subsp. polymorphum,oral,in,GCA_000234075.2,ADDB00000000.2,https://www.ncbi.nlm.nih.gov/nucleotide/ADDB00000000.1,https://www.beiresources.org/Catalog/Bacteria/HM-260.aspx
+F. nucleatum subsp. animalis D11,CD gut,in,GCA_000158535.2,ACDS00000000.2,https://www.ncbi.nlm.nih.gov/nucleotide/ACDS00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-75.aspx
+w,oral,in,GCA_000273605.1,AKCE00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/AKCE00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-758.aspx
+R. gnavus CC55_001C,healthy gut,in,GCA_000507805.1,AZJF00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AZJF00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1056.aspx
+S. parasanguinis F0449,oral,out,GCA_000260695.1,AJMV00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AJMV00000000,https://www.beiresources.org/Catalog/Bacteria/HM-808.aspx
+S. parasanguinis CC87K,healthy gut,in,GCA_000507765.1,AZJD00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/AZJD00000000,https://www.beiresources.org/Catalog/bacteria/HM-1060.aspx
+Lactobacillus gasseri JV-V03,vagina,in,GCA_000159335.1,ACGQ00000000.1,https://www.ncbi.nlm.nih.gov/nuccore/223861644,https://www.beiresources.org/Catalog/bacteria/HM-104.aspx
+Lactobacillus gasseri MV-22,vagina,in,GCA_000155935.2,ABWH00000000.2,https://www.ncbi.nlm.nih.gov/nucleotide/ABWH00000000?,https://www.beiresources.org/Catalog/Bacteria/HM-644.aspx
+Lactobacillus gasseri 224-1,vagina,in,GCA_000177415.1,ADFT00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/ADFT00000000?,https://www.beiresources.org/Catalog/bacteria/HM-647.aspx
+Lactobacillus gasseri PSS7772D,vagina,in,GCA_001546525.1,LRQD00000000.1,https://www.ncbi.nlm.nih.gov/nucleotide/LRQD00000000,https://www.beiresources.org/Catalog/Bacteria/HM-1278.aspx
